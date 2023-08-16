@@ -1,0 +1,8 @@
+COFIE CHERRUBIM NII ABEKA
+UEB3240522
+BSc.Information Technology
+CLASS:D
+
+Project Description
+CGPA calculator is used to measure the overall academic achievement of a student by 
+awarding A,B,C,D or F grades.It'seasy to use and easily understandable.
